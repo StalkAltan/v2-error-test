@@ -20,6 +20,6 @@
     "install": {}
   },
   "plugins": [],
-  "defaultBase": "main",
-  "nxCloudAccessToken": "NDk0NjIyZWItNDdmYS00ZTJmLTk2YzYtMmE5OTVjZmFmMTIyfHJlYWQ="
+  "nxCloudAccessToken": "NDk0NjIyZWItNDdmYS00ZTJmLTk2YzYtMmE5OTVjZmFmMTIyfHJlYWQ=",
+  "defaultBase": "main"
 }
